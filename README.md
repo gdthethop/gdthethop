@@ -9,7 +9,7 @@
 
 - 👯 Gdplayer [A custom media player built with React.js.](https://github.com/gdthethop/Gdplayer)
 
-- 🤝 GD_ETS [A collaborative project emphasizing efficient task scheduling.](https://github.com/gdthethop/GD_ETS)
+- 🤝 GD_ETS [A collaborative project emphasizing efficient task scheduling.](https://github.com/gdthethop/GD-ETS)
 
 - 💬 Link of the gdplayer **https://gdthethop.github.io/Gdplayer**
 
